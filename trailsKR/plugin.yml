@@ -1,0 +1,8 @@
+name : chatroomDTZ
+main : com.trailsKR.trailsKR.main
+version : 1.99
+author : captain0potlid
+commands :
+  chat:
+    description : commands
+    usage : /chat
